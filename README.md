@@ -14,4 +14,4 @@ To use/install the app you have to have installed XCode IDE in the MacOS. Simply
 
 1. Image of the parrot and description over it
 
-<img src="https://github.com/RobertNeat/Parrot_description/blob/main/screenshots/1_first_launch.png width="200"/>
+<img src="https://github.com/RobertNeat/Parrot_description/blob/main/screenshots/1_first_launch.png" width="200"/>
